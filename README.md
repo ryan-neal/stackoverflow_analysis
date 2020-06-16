@@ -14,6 +14,7 @@ I work at an computer science training organization, so I was interested in soft
 <li>What database do they use most often? </li>
 <li>What web frameworks do they use? </li>
 <li>Finally, what technology would they like to learn? </li>
+</ol>
 
 <h2> Files </h2>
 There are two files in this repository. Stackoverflow_analysis.ipnyb has all the code. Requirements.txt can be used to install dependencies.
