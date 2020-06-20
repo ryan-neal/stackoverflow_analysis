@@ -23,3 +23,6 @@ There are two files in this repository. Stackoverflow_analysis.ipnyb has all the
 You can access previous StackOverflow survey results from 
 <a href = "https://insights.stackoverflow.com/survey" > StackOverflow data </a>
 
+<h2> Blog </h2>
+You can read a summary of my findings on medium at:
+<a href = "https://medium.com/@ryanneal/what-skills-should-you-learn-before-becoming-a-software-developer-16e6c5d8d116"> Blog Post </a>
